@@ -5,8 +5,6 @@
 
 <div align="center">
 
-<div align="center">
-
   [Projeto](#-projeto) | 
   [Tecnologias](#-tecnologias) | 
   [Ferramentas](#-ferramentas) | 
@@ -78,7 +76,8 @@ Execute a classe Main
 
 <div align="center"> 
 
-### *Autor: [Lucas de Oliveira Macedo](https://github.com/lucasomac "Lucas de Oliveira Macedo")* </div>
+### *Autor: [Lucas de Oliveira Macedo](https://github.com/lucasomac "Lucas de Oliveira Macedo")* 
+</div>
 
 <div align="center">
 
@@ -86,4 +85,5 @@ Execute a classe Main
 [![Lucas Macedo Github](https://img.shields.io/badge/GitHub-lucasomac-lightgrey?logo=github "github")](https://github.com/lucasomac)
 [![Lucas Macedo Twitter](https://img.shields.io/badge/Twitter-_lucasomac-blue?logo=twitter "twitter")](https://twitter.com/lucasomac)
 [![Lucas Macedo Instagram](https://img.shields.io/badge/Instragram-lucasomac-E10979?logo=instagram "instagram")](https://instagram.com/lucasomac)
-[![Lucas Macedo Facebook](https://img.shields.io/badge/Facebook-lucasomac-blue?logo=facebook "facebook")](https://facebook.com/lucasomac) </div>
+[![Lucas Macedo Facebook](https://img.shields.io/badge/Facebook-lucasomac-blue?logo=facebook "facebook")](https://facebook.com/lucasomac)
+</div>
