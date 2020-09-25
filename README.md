@@ -1,11 +1,10 @@
 <div>
 
-![github](assets/github.png "github")
+![github](assets/logo-DH.png "github")
 </div>
 
 <div align="center">
 
-# README para uso em repositórios do GitHub</div>
 <div align="center">
 
   [Projeto](#-projeto) | 
@@ -19,42 +18,33 @@
 <div align="center">
 
 [![Autor](https://img.shields.io/badge/autor-Lucas%20de%20Oliveira%20Macedo-920629?style=flat-square)](https://github.com/lucasomac)
-![Linguagens](https://img.shields.io/github/languages/count/lucasomac/readme?color=920629&style=flat-square)
-[![Stars](https://img.shields.io/github/stars/lucasomac/readme?color=920629&style=flat-square)](https://github.com/lucasomac/readme/stargazers)
-[![Forks](https://img.shields.io/github/forks/lucasomac/readme?color=920629&style=flat-square)](https://github.com/lucasomac/readme/network/members)
-![Tamanho do código em bytes](https://img.shields.io/github/repo-size/lucasomac/readme?color=920629&style=flat-square)
-[![Last commit](https://img.shields.io/github/last-commit/lucasomac/readme?color=920629&style=flat-square)](https://github.com/lucasomac/readme/commits/master)
-[![Downloads](https://img.shields.io/github/downloads/lucasomac/readme/total?color=920629&style=flat-square)](https://github.com/lucasomac/readme/releases)
+![Linguagens](https://img.shields.io/github/languages/count/lucasomac/UniversityDH?color=920629&style=flat-square)
+[![Stars](https://img.shields.io/github/stars/lucasomac/UniversityDH?color=920629&style=flat-square)](https://github.com/lucasomac/UniversityDH/stargazers)
+[![Forks](https://img.shields.io/github/forks/lucasomac/UniversityDH?color=920629&style=flat-square)](https://github.com/lucasomac/UniversityDH/network/members)
+![Tamanho do código em bytes](https://img.shields.io/github/repo-size/lucasomac/UniversityDH?color=920629&style=flat-square)
+[![Last commit](https://img.shields.io/github/last-commit/lucasomac/UniversityDH?color=920629&style=flat-square)](https://github.com/lucasomac/UniversityDH/commits/master)
+[![Downloads](https://img.shields.io/github/downloads/lucasomac/UniversityDH/total?color=920629&style=flat-square)](https://github.com/lucasomac/UniversityDH/releases)
 </div>
 
-<p align="center">
-  Template open-source, contribua você também 😃
-</p>
 
 ## 💻 Projeto
 
-Este projeto foi desenvolvido para servir de template para criação de repositórios no Github. Desta forma é possivel termos um README padrão e pré customizado para os nossos repositórios
+Projeto integrador do módulo de Kotlin do curso mobile da Digital House
 
 ## ⚙ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en/)
-- [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/)
+- [Kotlin](https://kotlinlang.org/)
 
 ## ⛏ Ferramentas:
 
 Esse projeto foi desenvolvido com o uso das seguintes ferramentas/IDE:
 
-- [Visual Studio](https://visualstudio.microsoft.com/vs/)
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Android Studio](https://developer.android.com/studio)
-- [WebStorm](https://www.jetbrains.com/pt-br/webstorm/)
-- [PyCharm](https://www.jetbrains.com/pt-br/pycharm/)
-- [DataGrip](https://www.jetbrains.com/pt-br/datagrip/)
+- [Git](https://git-scm.com/)
+- [GitHub](https://github.com)
 - [IntelliJIDEA](https://www.jetbrains.com/pt-br/idea/)
+- [VisualParadigm](https://www.visual-paradigm.com/)
 
 ## 🤔 Como contribuir {#contribuir}
 
@@ -70,21 +60,11 @@ Para executar esse projeto na sua máquina,
 clone no repositório:
 
 ```bash
-$ git clone https://github.com/lucasomac/readme.git
+$ git clone https://github.com/lucasomac/UniversityDH.git
 ```
-#### ⚒ Back-End
-Run ```yarn install``` in the server folder;
-Run ```yarn run server``` to up the server;
-Open Insomnia or Postman and import the Insomnia.json workspace file at backend folder.
-
-#### 🌐 Front-End
-Run ```yarn install``` in the web folder;
-Run ```yarn start``` to up the project;
-
-#### 📲 Mobile
-Run ```npm install``` in the mobile folder
-Update the baseURL at ```src/services/api.js```.
-Run ```expo start``` to up the project.
+Abra o projeto com o InteliJ
+Configure o módulo para Kotlin
+Execute a classe Main
 
 ## 📜 Licença:
 
