@@ -44,7 +44,7 @@ Esse projeto foi desenvolvido com o uso das seguintes ferramentas/IDE:
 - [IntelliJIDEA](https://www.jetbrains.com/pt-br/idea/)
 - [VisualParadigm](https://www.visual-paradigm.com/)
 
-## 🤔 Como contribuir {#contribuir}
+## 🤔 Como contribuir
 
 - Faça um fork desse repositório;
 - Cria uma branch com a sua feature: `git checkout -b minha-feature`;
@@ -60,8 +60,8 @@ clone no repositório:
 ```bash
 $ git clone https://github.com/lucasomac/UniversityDH.git
 ```
-Abra o projeto com o InteliJ
-Configure o módulo para Kotlin
+Abra o projeto com o InteliJ <br>
+Configure o módulo para Kotlin <br>
 Execute a classe Main
 
 ## 📜 Licença:
