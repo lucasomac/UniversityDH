@@ -1,4 +1,4 @@
-class Curso(val nome: String, val codigo: Int, var professorTitular: ProfessorTitular, var professorAdjunto: ProfessorAdjunto) {
+class Curso(val nome: String, val codigo: Int, var professorTitular: ProfessorTitular, var professorAdjunto: ProfessorAdjunto, qtdMaxAluno: Int) {
     var alunosMtr = listOf<Aluno>()
     override fun equals(other: Any?): Boolean {
         if (this === other) return true
