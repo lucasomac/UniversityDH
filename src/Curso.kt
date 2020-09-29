@@ -1,5 +1,7 @@
-class Curso(val nome: String, val codigo: Int, var professorTitular: ProfessorTitular, var professorAdjunto: ProfessorAdjunto, var qtdMaxAluno: Int) {
-    private var qtdAtualAluno = 0
+class Curso(val nome: String, val codigo: Int, var qtdMaxAluno: Int) {
+    lateinit var professorTitular: ProfessorTitular
+    lateinit var professorAdjunto: ProfessorAdjunto
+    var qtdAtualAluno = 0
     var alunosMtr = mutableListOf<Aluno>()
     fun adicionarUmAluno(umAluno: Aluno): Boolean {
         when {
