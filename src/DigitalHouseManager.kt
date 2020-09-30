@@ -1,8 +1,8 @@
-class DigitalHouseManager() {
-    var listAlunos: MutableList<Aluno> = mutableListOf()
-    var listProfessores: MutableList<Professor> = mutableListOf()
-    var listCursos: MutableList<Curso> = mutableListOf()
-    var listMatriculas: MutableList<Matricula> = mutableListOf()
+class DigitalHouseManager {
+    private var listAlunos: MutableList<Aluno> = mutableListOf()
+    private var listProfessores: MutableList<Professor> = mutableListOf()
+    private var listCursos: MutableList<Curso> = mutableListOf()
+    private var listMatriculas: MutableList<Matricula> = mutableListOf()
 
     fun registrarCurso(nome: String, codigoCurso: Int, quantidadeMaximaDeAlunos: Int) {
         this.listCursos.add(Curso(nome, codigoCurso, quantidadeMaximaDeAlunos))
@@ -54,8 +54,8 @@ class DigitalHouseManager() {
         when {
             profAdjunto == -1 || profTitular == -1 || curso == -1 -> println("Curso ou professor não encontrado ")
             else -> {
-                this.listCursos[curso].professorAdjunto = this.listProfessores.get(profAdjunto) as ProfessorAdjunto
-                this.listCursos[curso].professorTitular = this.listProfessores.get(profTitular) as ProfessorTitular
+                this.listCursos[curso].professorAdjunto = this.listProfessores[profAdjunto] as ProfessorAdjunto
+                this.listCursos[curso].professorTitular = this.listProfessores[profTitular] as ProfessorTitular
             }
         }
     }
