@@ -70,7 +70,7 @@ Para alterar o diaagrama de classes instale o software VisualParadigm e com ele 
 
 <div align="center"> 
 
-Somos o que fazemos para mudar o que fomos!
+*Somos o que fazemos para mudar o que fomos!*
 </div>
 
 ---
