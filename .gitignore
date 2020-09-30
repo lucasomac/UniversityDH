@@ -1,3 +1,5 @@
 /.idea/
 *.bak*
 *.lck
+*.class
+*.kotlin_module
