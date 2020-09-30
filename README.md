@@ -64,7 +64,7 @@ Abra o projeto com o InteliJ, configure o módulo para Kotlin e execute a classe
 Para visualizar o diagrama de classe abra o arquivo UniversityDH.tiff dentro da pastas diagrams. <br>
 Para alterar o diaagrama de classes instale o software VisualParadigm e com ele abra o arquivo University.vpp que está dentro da pasta diagrams.
 
-## 📜 [Licença](LICENSE):
+## 📜 [Licença](LICENSE.md):
 
 ---
 
