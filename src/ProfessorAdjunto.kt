@@ -11,4 +11,9 @@ class ProfessorAdjunto(override val nome: String, override var sobrenome: String
     override fun hashCode(): Int {
         return codigo
     }
+
+    override fun toString(): String {
+        return "ProfessorAdjunto(nome='$nome', sobrenome='$sobrenome', codigo=$codigo)"
+    }
+
 }

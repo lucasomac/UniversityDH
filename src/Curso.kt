@@ -20,6 +20,7 @@ class Curso(val nome: String, val codigo: Int, var qtdMaxAluno: Int) {
         try {
 //            alunosMtr.filter { it == umAluno }
             alunosMtr.remove(umAluno)
+            qtdAtualAluno--
         } catch (e: Exception) {
             println("Aluno não encontrado --> ${e.message}")
         }
@@ -35,5 +36,9 @@ class Curso(val nome: String, val codigo: Int, var qtdMaxAluno: Int) {
 
     override fun hashCode(): Int {
         return codigo
+    }
+
+    override fun toString(): String {
+        return "Curso(nome='$nome', codigo=$codigo, qtdMaxAluno=$qtdMaxAluno)"
     }
 }
