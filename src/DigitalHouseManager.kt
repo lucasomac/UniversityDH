@@ -59,4 +59,8 @@ class DigitalHouseManager {
             }
         }
     }
+
+    fun consultarMatirulasAluno(codigoAluno: Int): MutableList<Matricula> {
+        return listMatriculas.filter { it.aluno.codigo == codigoAluno } as MutableList<Matricula>
+    }
 }
