@@ -60,23 +60,24 @@ clone no repositório:
 ```bash
 $ git clone https://github.com/lucasomac/UniversityDH.git
 ```
-Abra o projeto com o InteliJ <br>
-Configure o módulo para Kotlin <br>
-Execute a classe Main
+Abra o projeto com o InteliJ, configure o módulo para Kotlin e execute a classe Main. <br>
+Para visualizar o diagrama de classe abra o arquivo UniversityDH.tif dentro da pastas diagrams. <br>
+Para alterar o diaagrama de classes instale o software VisualParadigm e com ele abra o arquivo University.vpp que está dentro da pasta diagrams.
 
-## 📜 Licença:
+## 📜 [Licença](LICENSE.md)
 
+---
 
 <div align="center"> 
 
-#### Somos o que fazemos para mudar o que fomos!
+*Somos o que fazemos para mudar o que fomos!*
 </div>
 
 ---
 
 <div align="center"> 
 
-### *Autor: [Lucas de Oliveira Macedo](https://github.com/lucasomac "Lucas de Oliveira Macedo")* 
+**Autor: [Lucas de Oliveira Macedo](https://github.com/lucasomac "Lucas de Oliveira Macedo")**
 </div>
 
 <div align="center">
